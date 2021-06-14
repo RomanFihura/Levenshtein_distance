@@ -1,8 +1,7 @@
 #include "Levenshtein_distance.h"
 
 #include <algorithm>
-    uint32_t
-    Minimum(uint32_t a, uint32_t b, uint32_t c)
+uint32_t Minimum(uint32_t a, uint32_t b, uint32_t c)
 {
     if (a > b)
     {

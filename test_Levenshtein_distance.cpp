@@ -25,4 +25,5 @@ TEST(Test5, str2_is_empty)
 TEST(Test6, Levenstrain_properly_work)
 {
     EXPECT_EQ(Levenshtein_distance("Roan", "Roman"), 1);
+    
 }
